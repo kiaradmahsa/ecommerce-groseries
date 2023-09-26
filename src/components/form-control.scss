@@ -1,0 +1,12 @@
+.form-control{
+  border:1px solid $primary-dark;
+  font-size: 14px;
+  font-family: 'Rubik', Arial, sans-serif;
+  outline: none;
+  width: 100%;
+  display: block;
+  line-height: 1.5;
+  border-radius: 0;
+  padding: 0 1rem;
+  color: $primary-dark;
+}

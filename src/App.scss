@@ -5,12 +5,16 @@
 @import 'basic/basic';
 @import 'basic/variables';
 @import 'components/form-control';
-@import 'components/Navbar/navbar';
-@import 'components/container';
+
 
 /**
  * Basic Colors Variable
  */
 
 
-
+/*
+* Components
+*/
+@import 'components/Navbar/navbar';
+@import 'components/container';
+@import 'components/Menu/menu';
